@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/scenes/cokeBottleScene.unity
-  isLoaded: 1
-  isActive: 1
